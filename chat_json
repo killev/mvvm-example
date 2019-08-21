@@ -1,0 +1,25 @@
+[{
+		"text": "message from user",
+		"isUser": true
+	},
+	{
+		"text": "message from opponent",
+		"isUser": false
+	},
+	{
+		"text": "aagain from user",
+		"isUser": true
+	},
+	{
+		"text": "string 123123",
+		"isUser": false
+	},
+	{
+		"text": "string",
+		"isUser": true
+	},
+	{
+		"text": "string",
+		"isUser": false
+	}
+]
